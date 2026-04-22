@@ -160,6 +160,12 @@ nav ul li{
     border-radius:10px;
     width:200px;
 }
+.png{
+    width: 120px;     
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+}
 
 .footer{
     background: linear-gradient(#f7cdd3, #f1bfc7);
