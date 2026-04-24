@@ -48,6 +48,10 @@ nav ul li{
   align-items:center;
   justify-content:space-between;
   padding:60px 60px;
+    background-image: url(Donat.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 600px;
 }
 
 .hero-text{
@@ -58,10 +62,6 @@ nav ul li{
   font-family:'Allura',cursive;
   font-size:75px;
   color:#ff5fa2;
-    background-image: url(Donat.png);
-    background-repeat: no-repeat;
-    background-position: right center;
-    background-size: 600px;
 }
 
 .tagline{
