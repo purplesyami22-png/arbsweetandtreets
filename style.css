@@ -7,7 +7,7 @@
 
 body{
     color:#6b2c2c;
-    background-image: url(Donat.png ), linear-gradient(#f7cdd3, #ffffff);
+    background: linear-gradient(#f7cdd3, #ffffff);
     background-repeat: no-repeat;
     background-size: auto;
     background-position-x: right;
@@ -58,6 +58,10 @@ nav ul li{
   font-family:'Allura',cursive;
   font-size:75px;
   color:#ff5fa2;
+    background-image: url(Donat.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 600px;
 }
 
 .tagline{
